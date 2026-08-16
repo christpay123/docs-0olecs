@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-jwks1o.originmovement.co.nz/sitemap.xml
